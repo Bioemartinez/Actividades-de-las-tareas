@@ -1,4 +1,4 @@
-# Actividades-de-las-tareas
+# Actividades de las tareas 1 y 2
 Actividades relacionadas con las tareas asignadas durante el curso, específicamente en la Semana pre-Hackatón para los días martes y jueves.
 
 ¿De qué trata éste repositorio?
